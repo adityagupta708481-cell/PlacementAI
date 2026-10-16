@@ -1,0 +1,93 @@
+[
+  {
+    "name": "Google",
+    "tier": "Tier-1",
+    "min_readiness": 85,
+    "focus_topics": ["Dynamic Programming", "Graph", "Tree", "Binary Search", "System Design", "Trie"],
+    "jd_text": "Software Engineer, Early Career. Responsibilities: Design, develop, test, deploy, maintain, and enhance large-scale distributed software solutions. Requirements: Strong proficiency in Data Structures and Algorithms, advanced Graph algorithms (Dijkstra, BFS/DFS, Topological Sort), Dynamic Programming optimizations, Tree traversals, concurrency, multi-threading, clean code in C++, Java, or Python, and deep understanding of Operating Systems and Computer Networks."
+  },
+  {
+    "name": "Amazon",
+    "tier": "Tier-1",
+    "min_readiness": 80,
+    "focus_topics": ["Dynamic Programming", "Tree", "Graph", "Heap", "Hash Table", "Object-Oriented Design"],
+    "jd_text": "Software Development Engineer I (SDE-1). Responsibilities: Build highly scalable, fault-tolerant customer-facing cloud microservices using AWS. Requirements: Mastery in Object-Oriented Design, data structures, Trees (Binary Search Trees, Trie), Graphs, Dynamic Programming, Heaps, Priority Queues, database indexing, RESTful APIs, and Amazon Leadership Principles including Customer Obsession and Ownership."
+  },
+  {
+    "name": "Microsoft",
+    "tier": "Tier-1",
+    "min_readiness": 80,
+    "focus_topics": ["Tree", "Graph", "Dynamic Programming", "Linked List", "Strings", "System Design"],
+    "jd_text": "Software Engineer - Azure and Cloud Platforms. Responsibilities: Architect reliable, globally distributed cloud infrastructure services. Requirements: Strong algorithmic fundamentals, problem-solving in Linked Lists, Trees, Graph theory, Dynamic Programming, String algorithms, Operating Systems (Memory Management, Virtual Memory, Process Concurrency), and Low-Level Object Oriented Design."
+  },
+  {
+    "name": "Adobe",
+    "tier": "Tier-1",
+    "min_readiness": 78,
+    "focus_topics": ["Dynamic Programming", "Array", "Graph", "Bit Manipulation", "Math"],
+    "jd_text": "Member of Technical Staff - Creative Cloud Engineering. Responsibilities: High-performance graphics rendering, digital media pipelines, and full-stack cloud workflows. Requirements: High problem-solving speed in algorithmic puzzles, Dynamic Programming, complex geometry/math, Bit Manipulation, Arrays, OS threading, and memory optimization in C++ or modern web technologies."
+  },
+  {
+    "name": "Oracle",
+    "tier": "Mid",
+    "min_readiness": 72,
+    "focus_topics": ["DBMS", "SQL", "Tree", "Array", "Operating Systems", "Hash Table"],
+    "jd_text": "Applications Engineer / Database Cloud Engineer. Responsibilities: Develop enterprise cloud applications, database query optimizers, and automated data pipelines. Requirements: Advanced SQL, Relational Database Management Systems (DBMS, ACID, B-Trees, Normalization), concurrency, Hash Tables, Tree traversals, and Java enterprise development."
+  },
+  {
+    "name": "Cisco",
+    "tier": "Mid",
+    "min_readiness": 70,
+    "focus_topics": ["Computer Networks", "TCP/IP", "Socket Programming", "Graph", "Operating Systems"],
+    "jd_text": "Network Software Engineer. Responsibilities: Build next-generation routing, switching, and cloud network telemetry software. Requirements: Deep understanding of Computer Networks (OSI, TCP/IP, Routing Protocols, DNS, Subnetting), Socket Programming, OS Deadlocks and Inter-Process Communication, and Graph algorithms."
+  },
+  {
+    "name": "Morgan Stanley",
+    "tier": "Mid",
+    "min_readiness": 75,
+    "focus_topics": ["Dynamic Programming", "OOP", "DBMS", "Java", "Data Structures"],
+    "jd_text": "Technology Analyst - Enterprise Institutional Securities. Responsibilities: Design ultra-low-latency financial trading platforms and real-time risk assessment engines. Requirements: Solid OOP and Design Patterns, multithreading, concurrency, Dynamic Programming, relational databases, data structures, and financial aptitude."
+  },
+  {
+    "name": "Goldman Sachs",
+    "tier": "Mid",
+    "min_readiness": 75,
+    "focus_topics": ["Dynamic Programming", "Math", "Array", "Strings", "OOP", "Aptitude"],
+    "jd_text": "Engineering Analyst - Core Strats & Global Markets. Responsibilities: Quantitative modeling, algorithmic trading systems, and mission-critical financial software. Requirements: High mathematical ability, probability and statistics, Dynamic Programming, string algorithms, computational complexity, and clean modular code."
+  },
+  {
+    "name": "TCS",
+    "tier": "Services",
+    "min_readiness": 50,
+    "focus_topics": ["Aptitude", "Array", "Strings", "SQL", "OOP", "Basic DSA"],
+    "jd_text": "TCS Digital / Ninja Engineer. Responsibilities: Develop business enterprise applications, digital transformation initiatives, and cloud modernization. Requirements: Strong Quantitative and Logical Aptitude, core programming skills in Java/Python/C, basic Data Structures (Arrays, Strings, Stacks, Queues), SQL queries, and fundamental OOP concepts."
+  },
+  {
+    "name": "Infosys",
+    "tier": "Services",
+    "min_readiness": 50,
+    "focus_topics": ["Aptitude", "Array", "Strings", "DBMS", "OOP", "Basic DSA"],
+    "jd_text": "Specialist Programmer / Digital Specialist Engineer. Responsibilities: Build scalable enterprise solutions and modernize client IT estates. Requirements: Aptitude and logical reasoning, fundamentals of programming, basic Arrays, recursion, String manipulation, DBMS concepts, and clean coding standards."
+  },
+  {
+    "name": "Cognizant",
+    "tier": "Services",
+    "min_readiness": 48,
+    "focus_topics": ["Aptitude", "Basic DSA", "SQL", "OOP", "Verbal"],
+    "jd_text": "GenC Elevate / Next Engineer. Responsibilities: Enterprise software development, QA automation, and cloud migration support. Requirements: Aptitude and verbal proficiency, basic algorithmic problem solving, Object Oriented Programming, and basic Database queries."
+  },
+  {
+    "name": "Wipro",
+    "tier": "Services",
+    "min_readiness": 48,
+    "focus_topics": ["Aptitude", "Basic DSA", "OOP", "SQL"],
+    "jd_text": "Wipro Elite National Talent Hunt - Project Engineer. Responsibilities: Support software engineering lifecycle, agile software deliveries, and technology maintenance. Requirements: Analytical and logical aptitude, basic coding proficiency, understanding of loops, conditionals, arrays, and standard OOP principles."
+  },
+  {
+    "name": "Accenture",
+    "tier": "Services",
+    "min_readiness": 48,
+    "focus_topics": ["Aptitude", "Critical Reasoning", "Basic DSA", "Cloud Fundamentals"],
+    "jd_text": "Associate Software Engineer (ASE) / Advanced ASE. Responsibilities: Develop, test, and implement technology solutions across global clients. Requirements: Strong analytical and quantitative problem solving, critical thinking, fundamental coding skills, understanding of cloud computing basics, and verbal communication."
+  }
+]
