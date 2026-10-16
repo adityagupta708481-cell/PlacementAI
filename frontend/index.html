@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en" class="dark">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>PlacementPrep AI — Coding Platform Sync &amp; AI Readiness Engine</title>
+    <meta name="description" content="College Placement Preparation ecosystem with automated LeetCode, Codeforces, and GitHub sync and Hugging Face AI Placement Readiness analysis." />
+    <meta http-equiv="X-Content-Type-Options" content="nosniff" />
+    <meta name="referrer" content="strict-origin-when-cross-origin" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&family=JetBrains+Mono:wght@400;500;700&display=swap" rel="stylesheet">
+    <script>
+      (function() {
+        try {
+          var saved = localStorage.getItem('placement_theme');
+          var prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+          var theme = saved || 'dark';
+          var resolved = theme === 'system' ? (prefersDark ? 'dark' : 'light') : theme;
+          var root = document.documentElement;
+          root.classList.remove('dark', 'light');
+          root.classList.add(resolved);
+          root.style.colorScheme = resolved;
+        } catch (e) {}
+      })();
+    </script>
+  </head>
+  <body class="bg-background text-foreground">
+    <div id="root"></div>
+    <script type="module" src="/src/main.jsx"></script>
+  </body>
+</html>
